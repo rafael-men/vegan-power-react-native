@@ -1,4 +1,6 @@
-# Vegan Power
+<h1>Vegan Power</h1>
+
+<h2>Minha primeira aplicação utilizando React Native</h2>
 
 <h2>Funcionalidades</h2>
     <ul>
